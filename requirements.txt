@@ -1,6 +1,7 @@
 anthropic
 pydantic
 pandas
-streamlit
+streamlit==1.40.0
 pytest
 python-dotenv
+altair<6
