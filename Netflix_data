@@ -1,0 +1,7 @@
+import os
+os.environ["KAGGLE_API_TOKEN"] = "KGAT_9fb579b0bb81c8addee485500fe110b2"
+
+import kagglehub
+
+path = kagglehub.dataset_download("rohitgrewal/netflix-data")
+print("Path to dataset files:", path)

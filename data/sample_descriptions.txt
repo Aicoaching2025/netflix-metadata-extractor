@@ -1,0 +1,30 @@
+[1] Title: 3%
+    Description: In a future where the elite inhabit an island paradise far from the crowded slums, you get one chance to join the 3% saved from squalor.
+
+[2] Title: 07:19
+    Description: After a devastating earthquake hits Mexico City, trapped survivors from all walks of life wait to be rescued while trying desperately to stay alive.
+
+[3] Title: 23:59
+    Description: When an army recruit is found dead, his fellow soldiers are forced to confront a terrifying secret that's haunting their jungle island training camp.
+
+[4] Title: 9
+    Description: In a postapocalyptic world, rag-doll robots hide in fear from dangerous machines out to exterminate them, until a brave newcomer joins the group.
+
+[5] Title: 21
+    Description: A brilliant group of students become card-counting experts with the intent of swindling millions out of Las Vegas casinos by playing blackjack.
+
+[6] Title: 46
+    Description: A genetics professor experiments with a treatment for his comatose sister that blends medical and shamanic cures, but unlocks a shocking side effect.
+
+[7] Title: 122
+    Description: After an awful accident, a couple admitted to a grisly hospital are separated and must find each other to escape — before death finds them.
+
+[8] Title: 187
+    Description: After one of his high school students attacks him, dedicated teacher Trevor Garfield grows weary of the gang warfare in the New York City school system and moves to California to teach there, thinking it must be a less hostile environment.
+
+[9] Title: 706
+    Description: When a doctor goes missing, his psychiatrist wife treats the bizarre medical condition of a psychic patient, who knows much more than he's leading on.
+
+[10] Title: 1920
+    Description: An architect and his wife move into a castle that is slated to become a luxury hotel. But something inside is determined to stop the renovation.
+
